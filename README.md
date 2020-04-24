@@ -1,4 +1,5 @@
-#HackerRank Redo
+# HackerRank Redo
+
 This project is a remake of what I had aimed to make during the HackerRank coding test. Everything that you'll want to see specific to the test is located in the /src/utils/my-lib.js folder. A live demo of this project is posted on my website at [jvaughn.org/draftdemo](https://jvaughn.org/draftdemo)If you have any questions, feel free to reach out. Thanks again for your time.
 
 
